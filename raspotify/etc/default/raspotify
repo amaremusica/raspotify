@@ -1,15 +1,15 @@
 # /etc/default/raspotify -- Arguments/configuration for librespot
 
 # Device name on Spotify Connect
-#DEVICE_NAME="raspotify"
+#DEVICE_NAME="Amare Musica Jantar"
 
 # The displayed device type in Spotify clients.
 # Can be "unknown", "computer", "tablet", "smartphone", "speaker", "tv",
 # "avr" (Audio/Video Receiver), "stb" (Set-Top Box), and "audiodongle".
-#DEVICE_TYPE="speaker"
+#DEVICE_TYPE="avr"
 
 # Bitrate, one of 96 (low quality), 160 (default quality), or 320 (high quality)
-#BITRATE="160"
+#BITRATE="320"
 
 # Additional command line arguments for librespot can be set below.
 # See `librespot -h` for more info. Make sure whatever arguments you specify
